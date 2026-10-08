@@ -10,7 +10,7 @@ A practical collection of Data Structures and Algorithms problems solved primari
 
 ## Arrays
 
-- [ ] [Two Sum](arrays/two_sum.py) | `Easy`
+- [x] [Two Sum](arrays/two_sum.py) | `Easy`
 - [ ] Best Time to Buy and Sell Stock | `Easy`
 - [ ] Contains Duplicate | `Easy`
 - [ ] Move Zeroes | `Easy`
