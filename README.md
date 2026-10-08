@@ -18,7 +18,7 @@ A practical collection of Data Structures and Algorithms problems solved primari
 
 # Arrays
 
-- [x] [Two Sum](./arrays/two_sum.py) - Easy - P1
+- [x] [Two Sum - Easy - P1](./arrays/two_sum.py) 
 - [ ] Best Time to Buy and Sell Stock - Easy - P1
 - [ ] Contains Duplicate - Easy - P1
 - [ ] Product of Array Except Self - Medium - P1
